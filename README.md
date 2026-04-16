@@ -18,7 +18,7 @@
 
 ### 🎥 Live Preview
 
-<video src="https://github.com/0sman1924/SnapLoad/raw/main/assets/live_preview.mp4" controls width="700"></video>
+<video src="https://github.com/user-attachments/assets/5341e0b0-3748-4000-b31b-4cba8e9ef447" controls width="700"></video>
 
 </div>
 
