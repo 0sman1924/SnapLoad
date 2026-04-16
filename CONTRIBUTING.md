@@ -6,7 +6,7 @@ Thank you for your interest in contributing! Here's how to get started.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/yt-dlp-gui.git
+   git clone https://github.com/0sman1924/SnapLoad.git
    cd yt-dlp-gui
    ```
 

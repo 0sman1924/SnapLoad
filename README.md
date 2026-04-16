@@ -14,6 +14,14 @@
 
 ---
 
+<div align="center">
+
+### 🎥 Live Preview
+
+<video src="https://github.com/0sman1924/SnapLoad/raw/main/assets/live_preview.mp4" controls width="700"></video>
+
+</div>
+
 ## ✨ Features
 
 | Feature | Description |
@@ -42,7 +50,7 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/yt-dlp-gui.git
+git clone https://github.com/0sman1924/SnapLoad.git
 cd yt-dlp-gui
 
 # 2. Create a virtual environment (recommended)
@@ -56,7 +64,7 @@ pip install -r requirements.txt
 
 ### Standalone .exe (Windows)
 
-Download the latest `SnapLoad.exe` from the [Releases](https://github.com/yourusername/yt-dlp-gui/releases) page — no Python installation required.
+Download the latest `SnapLoad.exe` from the [Releases](https://github.com/0sman1924/SnapLoad/releases) page — no Python installation required.
 
 ---
 

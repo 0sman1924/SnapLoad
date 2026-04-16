@@ -34,9 +34,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/yt-dlp-gui"
-Repository = "https://github.com/yourusername/yt-dlp-gui"
-"Bug Tracker" = "https://github.com/yourusername/yt-dlp-gui/issues"
+Homepage = "https://github.com/0sman1924/SnapLoad"
+Repository = "https://github.com/0sman1924/SnapLoad"
+"Bug Tracker" = "https://github.com/0sman1924/SnapLoad/issues"
 
 [project.scripts]
 ytdlp-gui = "ytdlp_gui.main:main"
