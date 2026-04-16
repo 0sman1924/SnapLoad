@@ -1,0 +1,51 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+*.manifest
+.pytest_cache/
+
+# ========================
+# Virtual Environments
+# ========================
+venv/
+.venv/
+env/
+ENV/
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# ========================
+# OS Generated
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# ========================
+# Project Specific
+# ========================
+*.exe
+*.msi
+cookies.txt
+output/
+downloads/
+.env
+*.log
